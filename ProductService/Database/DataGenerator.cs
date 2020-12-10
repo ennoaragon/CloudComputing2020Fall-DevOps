@@ -20,16 +20,16 @@ public class DataGenerator
                 new Product
                 {
                     ProductId = 1,
-                    Name = "Television",
-                    Price = 199.95m,
-                    Count = 4
+                    Name = "Product 1",
+                    Price = 19.95m,
+                    Count = 514
                 },
                 new Product
                 {
                     ProductId = 2,
-                    Name = "Sofa",
-                    Price = 299.95m,
-                    Count = 10
+                    Name = "Product 2",
+                    Price = 2099.95m,
+                    Count = 101
                 }
             );
 
