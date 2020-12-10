@@ -51,6 +51,6 @@ stages:
         dockerfile: '$(Build.SourcesDirectory)/ProductService/Dockerfile'
         container: 'product-service'
         containerRegistry: 'hub.docker.com_ennoaragon'
-        repository: 'oitgaden/product-service'
+        repository: 'ennoaragon/product-service'
         tags: |
           $(tag)
